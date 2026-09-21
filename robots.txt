@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://command-code-dev.github.io/sitemap.xml
